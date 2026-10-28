@@ -10,3 +10,4 @@
 +.itsmygo.tv
 +.test.inemby.us.ci
 +.suiying.qutama.de
++.lite.cn2gias.uk
